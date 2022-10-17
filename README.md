@@ -1,4 +1,4 @@
-# mergeconflit
+local
 ok
 
 
